@@ -7,3 +7,14 @@
   <img src="Res/Kotlin Roadmap 2024.png">
 </p>
     <br />
+
+# Get Involved
+
+Feel free to propose enhancements or new sections for the roadmap. 
+I appreciate your insights and contributions to make this resource 
+even better.
+
+I value your contributions, no matter how small! Thank you for 
+being a part of this journey.
+
+Happy coding!
